@@ -3,6 +3,11 @@
 <h3 align="center">A Biomedical Engineer</h3>
 
 
+<p align="center">
+<a href="https://www.linkedin.com/in/guillaume-deside/" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D16AQHJXjtHFH0XLQ/profile-displaybackgroundimage-shrink_350_1400/0/1697723589247?e=1703721600&v=beta&t=H8PjKWlhnfYDyrgsL6CjQ_X7z-wpuRW_MjL32aO_Z1k" alt="my banner"></a>
+</p>
+
+
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guillaume-deside" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillaume-deside" height="30" width="40" /></a>
