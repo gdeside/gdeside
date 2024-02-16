@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/guillaume-deside/" rel="noreferrer"><img src="https://www.linkedin.com/in/guillaume-deside/overlay/background-image/" alt="my banner"></a>
+<a href="https://www.linkedin.com/in/guillaume-deside/" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D16AQHJXjtHFH0XLQ/profile-displaybackgroundimage-shrink_350_1400/0/1697723589947?e=1713398400&v=beta&t=us-_kHs8qhyYLYSbFbrKm9W7wtLJplArdhhnKY981cE" alt="my banner"></a>
 </p>
 
 
